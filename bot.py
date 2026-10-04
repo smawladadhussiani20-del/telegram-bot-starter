@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+https://github.com/"smawladadhussiani20-del/telegram-bot-starter/blob/main/bot.py"
 # -*- coding: utf-8 -*-
 """
 ربات تلگرام آموزشی - خرید از آمازون با تتر برای افغانستان

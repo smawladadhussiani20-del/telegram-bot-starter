@@ -326,7 +326,8 @@ async def contact_command(update: Update, context: ContextTypes.DEFAULT_TYPE) ->
 def main() -> None:
     """شروع ربات"""
     # توکن خود را اینجا وارد کنید
-"TOKEN = smawladadhussiani20-del/telegram-bot-starter/blob/main/bot.py"
+"TOKEN =
+8706861364:AAG1QaEI1RgGTDA8xt_OTOOy0L0TG6EaCwE"
     # ایجاد Application
     application = Application.builder().token(TOKEN).build()
     
